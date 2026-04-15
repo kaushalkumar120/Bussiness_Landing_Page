@@ -4,34 +4,30 @@
 
 NexGen is a modern business landing page designed for digital solution agencies, startups, and tech companies. It showcases services, portfolio projects, client testimonials, and a contact form in a clean, responsive layout.
 
-**Features**
+**Features**:
 
-Fully responsive design (works on mobile, tablet, and desktop)
+Fully responsive design (works on mobile, tablet, and desktop).
 
-Hero section with call-to-action buttons
+Hero section with call-to-action buttons.
 
-About section with mission and vision
+About section with mission and vision.
 
-Services section highlighting core offerings
+Services section highlighting core offerings.
 
-Portfolio grid to showcase projects
+Portfolio grid to showcase projects.
 
-Testimonials section with client feedback
+Testimonials section with client feedback.
 
-Contact form for user inquiries
+Contact form for user inquiries..
 
-Sticky navigation bar and smooth scrolling
+Sticky navigation bar and smooth scrolling.
 
-Clean and modern UI using HTML, CSS, and JavaScript
+Clean and modern UI using HTML, CSS, and JavaScript.
 
-**Technologies Used**
+**Technologies Used**:
 
-HTML5 – Semantic structure of the website
+HTML5 – Semantic structure of the website.
 
-CSS3 – Styling, responsive design, hover effects
+CSS3 – Styling, responsive design, hover effects.
 
-JavaScript – Mobile menu toggle, smooth scroll, and contact form interaction
-
-Google Fonts – Poppins & Inter
-
-Font Awesome – Icons for services and social links
+JavaScript – Mobile menu toggle, smooth scroll, and contact form interaction.
